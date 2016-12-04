@@ -18,6 +18,6 @@ public class Hello {
         System.out.println("hello lily");
         System.out.println("hello lily");
         System.out.println("hello lily");
-        System.out.println("你好");
+        System.out.println("你好好");
     }
 }
