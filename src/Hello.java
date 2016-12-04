@@ -6,6 +6,11 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("hello james");
         System.out.println("hello james");
+        System.out.println("hello james");
+        System.out.println("hello james");
+        System.out.println("hello tom");
+        System.out.println("hello tom");
+        System.out.println("hello tom");
         System.out.println("hello tom");
         System.out.println("hello tom");
         System.out.println("hello tom");
